@@ -585,6 +585,10 @@ The OLA Data Analyst Project is a complete Business Intelligence and Data Analyt
 
 The project successfully analyzes:
 
+<h2>📊 Overall Dashboard</h2>
+
+<img src="Slide1.PNG" width="100%">
+
 - Ride booking trends
 - Customer behavior
 - Revenue generation
