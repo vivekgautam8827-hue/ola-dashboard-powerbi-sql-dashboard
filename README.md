@@ -609,11 +609,3 @@ The project reflects strong analytical thinking, SQL expertise, dashboard-buildi
 ## Vivek Gautam
 Data Analyst | SQL | Power BI | Excel | Business Intelligence
 
-<h2>📊 Overall Dashboard</h2>
-
-<img src="Slide1.PNG" width="100%">
-
-git add .
-git commit -m "C:\Analyst project\Ola_PowerBI_Project2\Ola_Project2_Required_Slides\Slide1.PNG"
-git push
-
